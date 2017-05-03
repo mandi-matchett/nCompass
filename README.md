@@ -1,0 +1,2 @@
+# nCompass
+Blog from scratch
